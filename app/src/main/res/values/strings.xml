@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">testapiconcepto</string>
+    <string name="botonGenerar">Generar</string>
 </resources>
